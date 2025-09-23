@@ -17,5 +17,5 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I am a first-year PhD student in the [Department of Statistics](https://stat.utexas.edu/) at Iowa State university. I have done my master's in Statistics from Indian Institute of Technology, Kanpur. At IITK I have collaborated with [Dr. Dootika Vats](https://dvats.github.io) for The Beeline Algorithm. I am currently working on extending the same to multiple dimension and understand its theoretical properties. I am curious and enthusiastic about exploring different areas in Statistics. Apart from Statistics, I enjoy reading, writing and playing Indian Classical flute.
+I am a first-year PhD student in the [Department of Statistics](https://www.stat.iastate.edu/) at Iowa State university. I have done my master's in Statistics from Indian Institute of Technology, Kanpur. At IITK I have collaborated with [Dr. Dootika Vats](https://dvats.github.io) for The Beeline Algorithm. I am currently working on extending the same to multiple dimension and understand its theoretical properties. I am curious and enthusiastic about exploring different areas in Statistics. Apart from Statistics, I enjoy reading, writing, watching movies and playing Indian Classical flute.
 
