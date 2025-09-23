@@ -1,0 +1,41 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+// Dimensions
+$max-content-width: {{ site.max_width }};
+
+@import
+  "variables",
+  "themes",
+  "layout",
+  "base",
+  "distill",
+  "cv",
+  "tabs",
+  "typograms",
+  "font-awesome/fontawesome",
+  "font-awesome/brands",
+  "font-awesome/solid",
+  "font-awesome/regular",
+  "tabler-icons/tabler-icons.scss",
+  "tabler-icons/tabler-icons-filled.scss",
+  "tabler-icons/tabler-icons-outline.scss"
+;
+
+// Custom override for the publication award button
+ol.bibliography li .links a.award.btn {
+  // Default state
+  background-color: var(--global-theme-color);
+  border-color: var(--global-theme-color);
+  color: #ffffff;
+  font-weight: bold;
+
+  // Hover state
+  &:hover {
+    background-color: #ffffff;
+    color: var(--global-theme-color);
+    border-color: var(--global-theme-color);
+  }
+}
