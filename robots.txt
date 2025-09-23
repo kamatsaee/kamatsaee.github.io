@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https:/bansal-vansh.github.io/sitemap.xml
+Sitemap: https:/kamatsaee.github.io/sitemap.xml
